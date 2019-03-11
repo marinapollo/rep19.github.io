@@ -17,7 +17,7 @@ Vorraussetzung für Bestehen des Kurses:
 
 Für eines der 5 Themen/Sitzungen muss eine Kurzzusammenfassung geschrieben und abgegeben werden.
 Umfang ca. 1-2 Seiten.
-Bitte an sedinkina@cis.uni-muenchen.de <span style="color:red">**bis 27.07.2019**</span> schicken.
+Bitte an sedinkina@cis.uni-muenchen.de bis 27.07.2019 schicken.
 
 In dieser Veranstaltungen werden Fähigkeiten erarbeitet, die im Rahmen der Anfertigung der Bachelorarbeit nützlich sind.
 
