@@ -31,10 +31,10 @@ Repetitoriumsmaterialien:
 | Mai 20, 2019 | | |
 | Mai 27, 2019 | | |
 | Jun. 03, 2019 | | |
-| Jun. 10, 2019 | | |
+| Jun. 10, 2019 | Kein Repetitorium | |
 | Jun. 17, 2019 | | |
 | Jun. 24, 2019 | | |
-| Jul. 01, 2019 | | |
+| Jul. 01, 2019 | [Capgemini](https://www.capgemini.com/de-de/){:target="_blank"} | |
 | Jul. 08, 2019 | | |
 | Jul. 15, 2019 | | |
 | Jul. 22, 2019 | | |
