@@ -25,4 +25,16 @@ Repetitoriumsmaterialien:
 
 | Date | slides | materials |
 |-----------------------------|:--------------------------------:|:-------------------------------------------------------------------|
-| Apr. 29, 2019 | [Übersicht](uebersicht.pdf){:target="_blank"} | |
+| Apr. 29, 2019 | [Übersicht] (xxx.pdf) {:target="_blank"};[Wissenschaftliches Schreiben] (xxx.pdf) {:target="_blank"}  | |
+| Mai 06, 2019 | | |
+| Mai 13, 2019 | | |
+| Mai 20, 2019 | | |
+| Mai 27, 2019 | | |
+| Jun. 03, 2019 | | |
+| Jun. 10, 2019 | | |
+| Jun. 17, 2019 | | |
+| Jun. 24, 2019 | | |
+| Jul. 01, 2019 | | |
+| Jul. 08, 2019 | | |
+| Jul. 15, 2019 | | |
+| Jul. 22, 2019 | | |
