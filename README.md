@@ -37,4 +37,4 @@ Repetitoriumsmaterialien:
 | Jul. 01, 2019 | [Capgemini](https://www.capgemini.com/de-de/){:target="_blank"} | |
 | Jul. 08, 2019 | | |
 | Jul. 15, 2019 | Siemens | |
-| Jul. 22, 2019 | | |
+| Jul. 22, 2019 | [Sulzer GmbH](https://www.sulzer.de/){:target="_blank"}| |
