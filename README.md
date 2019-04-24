@@ -26,7 +26,7 @@ Repetitoriumsmaterialien:
 | Date | slides | materials |
 |-----------------------------|:--------------------------------:|:-------------------------------------------------------------------|
 | Apr. 29, 2019 | [Übersicht](xxx.pdf){:target="_blank"};[Wissenschaftliches Schreiben](xxx.pdf){:target="_blank"}  | |
-| Mai 06, 2019 |  HolidayCheck/Burda| [Latex I. Basics](xxx.pdf){:target="_blank"};  |
+| Mai 06, 2019 |  HolidayCheck/Burda; [Latex I. Basics](xxx.pdf){:target="_blank"} |  |
 | Mai 13, 2019 | [Latex II. Dokumentenstruktur](xxx.pdf){:target="_blank"} | |
 | Mai 20, 2019 | [Aufbau von Machine Learning Experimenten](xxx.pdf){:target="_blank"}  | |
 | Mai 27, 2019 | [Visualisierung von Daten und Ergebnissen](xxx.pdf){:target="_blank"} | |
