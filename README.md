@@ -25,7 +25,7 @@ Repetitoriumsmaterialien:
 
 | Date | slides | materials |
 |-----------------------------|:--------------------------------:|:-------------------------------------------------------------------|
-| Apr. 29, 2019 | [Übersicht](xxx.pdf){:target="_blank"};[Wissenschaftliches Schreiben](xxx.pdf){:target="_blank"}  | |
+| Apr. 29, 2019 | [Übersicht](Repetitorium_der_Computerlinguistik_2019.pdf){:target="_blank"};[Wissenschaftliches Schreiben](scientific_writing.pdf){:target="_blank"}  | [Gliederung_Beispiel1](Gliederung_Beispiel.pdf){:target="_blank"};[Gliederung_Beispiel2](Gliederung_Beispiel2.pdf){:target="_blank"}|
 | Mai 06, 2019 |  HolidayCheck/Burda; [Latex I. Basics](xxx.pdf){:target="_blank"} |  |
 | Mai 13, 2019 | [Latex II. Dokumentenstruktur](xxx.pdf){:target="_blank"} | |
 | Mai 20, 2019 | [Aufbau von Machine Learning Experimenten](xxx.pdf){:target="_blank"}  | |
