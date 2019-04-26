@@ -32,7 +32,7 @@ Repetitoriumsmaterialien:
 | Mai 27, 2019 | [Visualisierung von Daten und Ergebnissen](xxx.pdf){:target="_blank"} | |
 | Jun. 03, 2019 | [Latex III. Präsentationen](xxx.pdf){:target="_blank"}| |
 | Jun. 10, 2019 | Kein Repetitorium | |
-| Jun. 17, 2019 | | |
+| Jun. 17, 2019 | Volkswagen AG | |
 | Jun. 24, 2019 | Kolloquium | |
 | Jul. 01, 2019 | [Capgemini](https://www.capgemini.com/de-de/){:target="_blank"} | |
 | Jul. 08, 2019 | | |
