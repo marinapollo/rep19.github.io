@@ -26,7 +26,7 @@ Repetitoriumsmaterialien:
 | Date | slides | materials |
 |-----------------------------|:--------------------------------:|:-------------------------------------------------------------------|
 | Apr. 29, 2019 | [Übersicht](Repetitorium_der_Computerlinguistik_2019.pdf){:target="_blank"};[Wissenschaftliches Schreiben](scientific_writing.pdf){:target="_blank"}  | [Gliederung](Gliederung_Beispiel.pdf); [Outline](Outline.pdf)|
-| Mai 06, 2019 |  HolidayCheck/Burda; [Latex I. Basics](slides_latex1.pdf){:target="_blank"} |  [Korrekturlesen](https://www.uni-muenchen.de/studium/studium_aktuell/neuigkeiten/ia/korrekturlesen-studierende/index.html) |
+| Mai 06, 2019 |  [HolidayCheck/Burda](http://th-mayer.de/seeit-meetup/); [Latex I. Basics](slides_latex1.pdf){:target="_blank"} |  [Korrekturlesen](https://www.uni-muenchen.de/studium/studium_aktuell/neuigkeiten/ia/korrekturlesen-studierende/index.html) |
 | Mai 13, 2019 | [Latex II. Dokumentenstruktur](xxx.pdf){:target="_blank"} | |
 | Mai 20, 2019 | [Aufbau von Machine Learning Experimenten](xxx.pdf){:target="_blank"}  | |
 | Mai 27, 2019 | [Visualisierung von Daten und Ergebnissen](xxx.pdf){:target="_blank"} | |
