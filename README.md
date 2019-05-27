@@ -29,7 +29,7 @@ Repetitoriumsmaterialien:
 | Mai 06, 2019 |  [HolidayCheck/Burda](http://th-mayer.de/seeit-meetup/); [Latex I. Basics](slides_latex1.pdf){:target="_blank"} |  [Korrekturlesen](https://www.uni-muenchen.de/studium/studium_aktuell/neuigkeiten/ia/korrekturlesen-studierende/index.html) |
 | Mai 13, 2019 | [Latex II. Dokumentenstruktur](slides_latex2.pdf){:target="_blank"} | |
 | Mai 20, 2019 | [Aufbau von Machine Learning Experimenten](slides_ML.pdf){:target="_blank"}  | |
-| Mai 27, 2019 | [Visualisierung von Daten und Ergebnissen](xxx.pdf){:target="_blank"} | |
+| Mai 27, 2019 | [Visualisierung von Daten und Ergebnissen](visualization_slides.pdf){:target="_blank"} | |
 | Jun. 03, 2019 | [Latex III. Präsentationen](xxx.pdf){:target="_blank"}| |
 | Jun. 10, 2019 | Kein Repetitorium | |
 | Jun. 17, 2019 | Volkswagen AG | |
