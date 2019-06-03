@@ -3,7 +3,7 @@
 ### Centrum für Informations- und Sprachverarbeitung, LMU München
 
  - Zeit: Mo 15:00-15:45 
- - Raum: 151, Oettingenstr. 67
+ - Raum: 123, Oettingenstr. 67
  - Dozent: Marina Sedinkina
 
 
