@@ -30,7 +30,7 @@ Repetitoriumsmaterialien:
 | Mai 13, 2019 | [Latex II. Dokumentenstruktur](slides_latex2.pdf){:target="_blank"} | |
 | Mai 20, 2019 | [Aufbau von Machine Learning Experimenten](slides_ML.pdf){:target="_blank"}  | |
 | Mai 27, 2019 | [Visualisierung von Daten und Ergebnissen](visualization_slides.pdf){:target="_blank"} | |
-| Jun. 03, 2019 | [Latex III. Präsentationen](xxx.pdf){:target="_blank"}| |
+| Jun. 03, 2019 | [Latex III. Präsentationen](slides_latex3.pdf){:target="_blank"}| |
 | Jun. 10, 2019 | Kein Repetitorium | |
 | Jun. 17, 2019 | Volkswagen AG | |
 | Jun. 24, 2019 | Kolloquium | |
