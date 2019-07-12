@@ -34,7 +34,7 @@ Repetitoriumsmaterialien:
 | Jun. 10, 2019 | Kein Repetitorium | |
 | Jun. 17, 2019 | Volkswagen AG | |
 | Jun. 24, 2019 | Kolloquium | |
-| Jul. 01, 2019 | [Capgemini](https://www.capgemini.com/de-de/){:target="_blank"} | [Vortrag](NLP_by_Capgemini.pdf){:target="_blank"}|
+| Jul. 01, 2019 | [Capgemini](https://www.capgemini.com/de-de/){:target="_blank"} | [Vortrag](NLP_bei_Capgemini.pdf){:target="_blank"}|
 | Jul. 08, 2019 | Kolloquium| |
 | Jul. 15, 2019 | Siemens | |
 | Jul. 22, 2019 | [Sulzer GmbH](https://www.sulzer.de/){:target="_blank"}| |
