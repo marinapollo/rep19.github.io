@@ -19,6 +19,8 @@ Für eines der 5 Themen/Sitzungen muss eine Kurzzusammenfassung geschrieben und 
 Umfang ca. 1-2 Seiten. Bitte an sedinkina@cis.uni-muenchen.de bis 27.07.2019 schicken.
 Am Ende des Semesters müssen Sie sich für die Prüfung anmelden!!!
 
+<span style="color:red"> Erinnerung: Eine Kurzzusammenfassung muss bis 10.08 geschickt werden (falls noch nicht geschickt wurde). Nächste Woche wird die Note eingetragen. </span>
+
 In dieser Veranstaltungen werden Fähigkeiten erarbeitet, die im Rahmen der Anfertigung der Bachelorarbeit nützlich sind.
 
 Repetitoriumsmaterialien:
